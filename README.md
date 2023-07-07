@@ -1,0 +1,1 @@
+# applicationInsights-.netcore-codeless-app-02
